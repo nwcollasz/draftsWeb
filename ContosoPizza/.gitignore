@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.vs/
+Thumbs.db
+desktop.ini
